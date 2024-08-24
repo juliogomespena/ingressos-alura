@@ -62,3 +62,4 @@ function comprar()
 }
 
 // editando clone
+// testando conflitos no git
