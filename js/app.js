@@ -10,7 +10,7 @@ function comprar()
 
     // mais uma alteração para teste de conflito
 
-    console.log("teste de conflitos");
+    console.log("teste de revert de comit");
 
     if(isNaN(qtd) || qtd == 0) alert("Insira uma quantidade à ser comprada.");
     else if(qtd < 0) alert("Quantidade inválida! Insira um número positivo.");
