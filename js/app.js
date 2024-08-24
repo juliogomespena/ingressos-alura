@@ -8,6 +8,8 @@ function comprar()
 
     console.log(qtd);
 
+    // mais uma alteração para teste de conflito
+
     console.log("teste de conflitos");
 
     if(isNaN(qtd) || qtd == 0) alert("Insira uma quantidade à ser comprada.");
