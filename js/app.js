@@ -60,3 +60,5 @@ function comprar()
         document.getElementById("qtd").value = "";
     }
 }
+
+// editando clone
